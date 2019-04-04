@@ -9,10 +9,10 @@ import {Component, OnInit} from '@angular/core';
 export class AppComponent implements OnInit {
 
   api = '1d1013d3041f700c8dc3812fd2aac8d2';
-  city1name = 'Houston';
-  city2name = 'Chicago';
-  city3name = 'Madrid';
-  city4name = 'Tokyo';
+  city1name = 'Mumbai';
+  city2name = 'Pune';
+  city3name = 'Delhi';
+  city4name = 'Kolhapur';
   city1;
   city2;
   city3;
